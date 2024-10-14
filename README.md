@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HanSeo%20Kim&%20render&fontSize=90&animation=fadeIn" />
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=hanseokimm&count_private=true" />
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseokimm&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
+<br><br><br>
 
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
